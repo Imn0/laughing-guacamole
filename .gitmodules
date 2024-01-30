@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Imn0/GoGameEpicSagaServer.git
+[submodule "client_electron"]
+	path = client_electron
+	url = git@github.com:Methargus/GoGameEpicSagaServerClient.git
