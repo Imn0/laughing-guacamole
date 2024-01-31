@@ -1,6 +1,8 @@
 #Go
 
 
+spring.data.mongodb.uri must be defined insdie application.properties in order for databse to work
+
 launching server
 ```
 cd GoGameEpicSagaServer
